@@ -1,0 +1,3467 @@
+[
+  {
+    "Date":"2009-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-2-24",
+    "DD":24,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-2-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-3-22",
+    "DD":22,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-3-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-4-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-4-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-4-12",
+    "DD":12,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-4-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-5-04",
+    "DD":4,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-5-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-6-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-8-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-10-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-11-08",
+    "DD":8,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2009-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2009-12-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2009,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-2-16",
+    "DD":16,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-2-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-3-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-3-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-4-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-4-04",
+    "DD":4,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-4-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-5-03",
+    "DD":3,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-5-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-6-20",
+    "DD":20,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-8-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-11-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2010-12-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2010-12-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2010,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-1-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Hogmanay",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-1-03",
+    "DD":3,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-3-08",
+    "DD":8,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-3-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-3-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-03",
+    "DD":3,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-22",
+    "DD":22,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-24",
+    "DD":24,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-4-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-5-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-5-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-6-19",
+    "DD":19,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-8-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-10-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-11-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2011-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2011-12-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2011,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Hogmanay",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-1-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-2-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-2-22",
+    "DD":22,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-3-18",
+    "DD":18,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-3-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-4-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-4-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-4-08",
+    "DD":8,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-4-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-5-07",
+    "DD":7,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-5-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-6-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-8-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-10-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2012-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2012-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2012,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-2-12",
+    "DD":12,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-2-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-3-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-3-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-5-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-5-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-6-16",
+    "DD":16,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-8-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-10-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-11-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2013-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2013-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2013,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-04",
+    "DD":4,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-3-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-4-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-4-18",
+    "DD":18,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-4-20",
+    "DD":20,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-5-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-5-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-6-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-8-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-10-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-11-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2014-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2014-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2014,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-2-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-2-18",
+    "DD":18,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-3-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-3-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-4-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-4-03",
+    "DD":3,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-4-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-4-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-5-04",
+    "DD":4,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-5-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-6-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-8-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-10-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-11-08",
+    "DD":8,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2015-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2015-12-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2015,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-2-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-2-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-24",
+    "DD":24,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-3-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-3-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-5-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-5-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-6-19",
+    "DD":19,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-8-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-10-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-11-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2016-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2016-12-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2016,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Hogmanay",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-1-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-2-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-3-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-3-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-4-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-4-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-4-16",
+    "DD":16,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-4-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-5-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-5-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-6-18",
+    "DD":18,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-8-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-10-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-11-12",
+    "DD":12,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2017-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2017-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2017,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-2-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-11",
+    "DD":11,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-3-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-4-02",
+    "DD":2,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-5-07",
+    "DD":7,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-5-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-6-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-8-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-10-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2018-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2018-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2018,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-3-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-4-18",
+    "DD":18,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-4-19",
+    "DD":19,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-4-22",
+    "DD":22,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-5-06",
+    "DD":6,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-5-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-6-16",
+    "DD":16,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-8-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-10-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-11-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2019-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2019-12-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2019,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-1-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"New Year's Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-1-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Robert Burns Night (Burns Night)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-1-27",
+    "DD":27,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Holocaust Memorial Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-2-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Valentines Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-2-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Shrove Tuesday (Pancake Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-2-26",
+    "DD":26,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Ash Wednesday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-3-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"St David's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-3-17",
+    "DD":17,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"St Patricks Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-3-22",
+    "DD":22,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Mothering Sunday (Mothers Day)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-3-29",
+    "DD":29,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"British Summertime (BST) Begins",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-4-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"April Fool's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-4-09",
+    "DD":9,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Maundy Thursday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-4-10",
+    "DD":10,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Good Friday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-4-12",
+    "DD":12,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Easter Sunday",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-4-13",
+    "DD":13,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Easter Monday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-4-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Queen Elizabeth's Birthday",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-4-23",
+    "DD":23,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"St George's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-5-04",
+    "DD":4,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"May Day (Early May Bank Holiday)",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-5-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Spring Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-6-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Trooping the Colour",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-6-21",
+    "DD":21,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Father's Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-7-14",
+    "DD":14,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Emmeline Pankhurst Day",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-7-15",
+    "DD":15,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"St.Swithun's Day (aka St. Swithin's)",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-8-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Summer Bank Holiday",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-10-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"British Summertime (BST) Ends",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-10-31",
+    "DD":31,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Halloween",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-11-01",
+    "DD":1,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"All Saints Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-11-05",
+    "DD":5,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Guy Fawkes Night",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-11-08",
+    "DD":8,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Remembrance Day (Remembrance Sunday)",
+    "Type":"Notable Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-11-30",
+    "DD":30,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"St Andrew's Day",
+    "Type":"Religious Date",
+    "Bank Holiday":false
+  },
+  {
+    "Date":"2020-12-25",
+    "DD":25,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Christmas",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  },
+  {
+    "Date":"2020-12-28",
+    "DD":28,
+    "MM":1,
+    "YYY":2020,
+    "Holiday":"Boxing Day",
+    "Type":"Bank Holiday",
+    "Bank Holiday":true
+  }
+]

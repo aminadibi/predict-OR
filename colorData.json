@@ -1,0 +1,2198 @@
+[
+  {
+    "Index": 1,
+    "Date": "Fri Jan 01",
+    "Color": 0.589070478,
+    "Patients": 175
+  },
+  {
+    "Index": 2,
+    "Date": "Sat Jan 02",
+    "Color": 0.342790509,
+    "Patients": 143.6
+  },
+  {
+    "Index": 3,
+    "Date": "Sun Jan 03",
+    "Color": 0.567314796,
+    "Patients": 172.3
+  },
+  {
+    "Index": 4,
+    "Date": "Mon Jan 04",
+    "Color": 0.638498309,
+    "Patients": 181.3
+  },
+  {
+    "Index": 5,
+    "Date": "Tue Jan 05",
+    "Color": 0.382047077,
+    "Patients": 148.6
+  },
+  {
+    "Index": 6,
+    "Date": "Wed Jan 06",
+    "Color": 0.683840179,
+    "Patients": 187.1
+  },
+  {
+    "Index": 7,
+    "Date": "Thu Jan 07",
+    "Color": 0.606349058,
+    "Patients": 177.2
+  },
+  {
+    "Index": 8,
+    "Date": "Fri Jan 08",
+    "Color": 1,
+    "Patients": 229
+  },
+  {
+    "Index": 9,
+    "Date": "Sat Jan 09",
+    "Color": 0.390430659,
+    "Patients": 149.7
+  },
+  {
+    "Index": 10,
+    "Date": "Sun Jan 10",
+    "Color": 0.422025352,
+    "Patients": 153.7
+  },
+  {
+    "Index": 11,
+    "Date": "Mon Jan 11",
+    "Color": 0.415071932,
+    "Patients": 152.9
+  },
+  {
+    "Index": 12,
+    "Date": "Tue Jan 12",
+    "Color": 0.523349,
+    "Patients": 166.7
+  },
+  {
+    "Index": 13,
+    "Date": "Wed Jan 13",
+    "Color": 0.408361012,
+    "Patients": 152
+  },
+  {
+    "Index": 14,
+    "Date": "Thu Jan 14",
+    "Color": 0.284708738,
+    "Patients": 136.2
+  },
+  {
+    "Index": 15,
+    "Date": "Fri Jan 15",
+    "Color": 0.693663,
+    "Patients": 188.4
+  },
+  {
+    "Index": 16,
+    "Date": "Sat Jan 16",
+    "Color": 0.463020097,
+    "Patients": 159
+  },
+  {
+    "Index": 17,
+    "Date": "Sun Jan 17",
+    "Color": 0.391799726,
+    "Patients": 149.9
+  },
+  {
+    "Index": 18,
+    "Date": "Mon Jan 18",
+    "Color": 0.478268561,
+    "Patients": 160.9
+  },
+  {
+    "Index": 19,
+    "Date": "Tue Jan 19",
+    "Color": 0.446049024,
+    "Patients": 156.8
+  },
+  {
+    "Index": 20,
+    "Date": "Wed Jan 20",
+    "Color": 0.323073745,
+    "Patients": 141.1
+  },
+  {
+    "Index": 21,
+    "Date": "Thu Jan 21",
+    "Color": 0.606349058,
+    "Patients": 177.2
+  },
+  {
+    "Index": 22,
+    "Date": "Fri Jan 22",
+    "Color": 0.703505453,
+    "Patients": 189.6
+  },
+  {
+    "Index": 23,
+    "Date": "Sat Jan 23",
+    "Color": 0.50770258,
+    "Patients": 164.7
+  },
+  {
+    "Index": 24,
+    "Date": "Sun Jan 24",
+    "Color": 0.34523897,
+    "Patients": 144
+  },
+  {
+    "Index": 25,
+    "Date": "Mon Jan 25",
+    "Color": 0.448898601,
+    "Patients": 157.2
+  },
+  {
+    "Index": 26,
+    "Date": "Tue Jan 26",
+    "Color": 0.678816057,
+    "Patients": 186.5
+  },
+  {
+    "Index": 27,
+    "Date": "Wed Jan 27",
+    "Color": 0.579061551,
+    "Patients": 173.8
+  },
+  {
+    "Index": 28,
+    "Date": "Thu Jan 28",
+    "Color": 0.293686839,
+    "Patients": 137.4
+  },
+  {
+    "Index": 29,
+    "Date": "Fri Jan 29",
+    "Color": 0.569870473,
+    "Patients": 172.6
+  },
+  {
+    "Index": 30,
+    "Date": "Sat Jan 30",
+    "Color": 0.442224461,
+    "Patients": 156.3
+  },
+  {
+    "Index": 31,
+    "Date": "Sun Jan 31",
+    "Color": 0.453514915,
+    "Patients": 157.8
+  },
+  {
+    "Index": 32,
+    "Date": "Mon Feb 01",
+    "Color": 0.745703909,
+    "Patients": 195
+  },
+  {
+    "Index": 33,
+    "Date": "Tue Feb 02",
+    "Color": 0.623838152,
+    "Patients": 179.5
+  },
+  {
+    "Index": 34,
+    "Date": "Wed Feb 03",
+    "Color": 0.386729171,
+    "Patients": 149.2
+  },
+  {
+    "Index": 35,
+    "Date": "Thu Feb 04",
+    "Color": 0.628320616,
+    "Patients": 180
+  },
+  {
+    "Index": 36,
+    "Date": "Fri Feb 05",
+    "Color": 0.560356249,
+    "Patients": 171.4
+  },
+  {
+    "Index": 37,
+    "Date": "Sat Feb 06",
+    "Color": 0.251794003,
+    "Patients": 132.1
+  },
+  {
+    "Index": 38,
+    "Date": "Sun Feb 07",
+    "Color": 0.568848403,
+    "Patients": 172.4
+  },
+  {
+    "Index": 39,
+    "Date": "Mon Feb 08",
+    "Color": 0.183855159,
+    "Patients": 123.4
+  },
+  {
+    "Index": 40,
+    "Date": "Tue Feb 09",
+    "Color": 0.505290844,
+    "Patients": 164.4
+  },
+  {
+    "Index": 41,
+    "Date": "Wed Feb 10",
+    "Color": 0.523922844,
+    "Patients": 166.7
+  },
+  {
+    "Index": 42,
+    "Date": "Thu Feb 11",
+    "Color": 0.281495701,
+    "Patients": 135.8
+  },
+  {
+    "Index": 43,
+    "Date": "Fri Feb 12",
+    "Color": 0.651136879,
+    "Patients": 182.9
+  },
+  {
+    "Index": 44,
+    "Date": "Sat Feb 13",
+    "Color": 0.854881124,
+    "Patients": 208.9
+  },
+  {
+    "Index": 45,
+    "Date": "Sun Feb 14",
+    "Color": 0.388430059,
+    "Patients": 149.5
+  },
+  {
+    "Index": 46,
+    "Date": "Mon Feb 15",
+    "Color": 0.628344882,
+    "Patients": 180
+  },
+  {
+    "Index": 47,
+    "Date": "Tue Feb 16",
+    "Color": 0.396133698,
+    "Patients": 150.4
+  },
+  {
+    "Index": 48,
+    "Date": "Wed Feb 17",
+    "Color": 0.260366583,
+    "Patients": 133.1
+  },
+  {
+    "Index": 49,
+    "Date": "Thu Feb 18",
+    "Color": 0.549617692,
+    "Patients": 170
+  },
+  {
+    "Index": 50,
+    "Date": "Fri Feb 19",
+    "Color": 0.754925,
+    "Patients": 196.2
+  },
+  {
+    "Index": 51,
+    "Date": "Sat Feb 20",
+    "Color": 0.354047823,
+    "Patients": 145.1
+  },
+  {
+    "Index": 52,
+    "Date": "Sun Feb 21",
+    "Color": 0.421271406,
+    "Patients": 153.6
+  },
+  {
+    "Index": 53,
+    "Date": "Mon Feb 22",
+    "Color": 0.258269404,
+    "Patients": 132.9
+  },
+  {
+    "Index": 54,
+    "Date": "Tue Feb 23",
+    "Color": 0.627574932,
+    "Patients": 179.9
+  },
+  {
+    "Index": 55,
+    "Date": "Wed Feb 24",
+    "Color": 0.346486412,
+    "Patients": 144.1
+  },
+  {
+    "Index": 56,
+    "Date": "Thu Feb 25",
+    "Color": 0.752526025,
+    "Patients": 195.9
+  },
+  {
+    "Index": 57,
+    "Date": "Fri Feb 26",
+    "Color": 0.554808159,
+    "Patients": 170.7
+  },
+  {
+    "Index": 58,
+    "Date": "Sat Feb 27",
+    "Color": 0.516265591,
+    "Patients": 165.7
+  },
+  {
+    "Index": 59,
+    "Date": "Sun Feb 28",
+    "Color": 0.532842728,
+    "Patients": 167.9
+  },
+  {
+    "Index": 60,
+    "Date": "Mon Feb 29",
+    "Color": 0.483412456,
+    "Patients": 161.6
+  },
+  {
+    "Index": 61,
+    "Date": "Tue Mar 01",
+    "Color": 0.317494484,
+    "Patients": 140.4
+  },
+  {
+    "Index": 62,
+    "Date": "Wed Mar 02",
+    "Color": 0.495771683,
+    "Patients": 163.1
+  },
+  {
+    "Index": 63,
+    "Date": "Thu Mar 03",
+    "Color": 0.532273174,
+    "Patients": 167.8
+  },
+  {
+    "Index": 64,
+    "Date": "Fri Mar 04",
+    "Color": 0.516607952,
+    "Patients": 165.8
+  },
+  {
+    "Index": 65,
+    "Date": "Sat Mar 05",
+    "Color": 0.461697477,
+    "Patients": 158.8
+  },
+  {
+    "Index": 66,
+    "Date": "Sun Mar 06",
+    "Color": 0.346486412,
+    "Patients": 144.1
+  },
+  {
+    "Index": 67,
+    "Date": "Mon Mar 07",
+    "Color": 0.332265315,
+    "Patients": 142.3
+  },
+  {
+    "Index": 68,
+    "Date": "Tue Mar 08",
+    "Color": 0.358383101,
+    "Patients": 145.6
+  },
+  {
+    "Index": 69,
+    "Date": "Wed Mar 09",
+    "Color": 0.489841039,
+    "Patients": 162.4
+  },
+  {
+    "Index": 70,
+    "Date": "Thu Mar 10",
+    "Color": 0.505497285,
+    "Patients": 164.4
+  },
+  {
+    "Index": 71,
+    "Date": "Fri Mar 11",
+    "Color": 0.972583909,
+    "Patients": 223.9
+  },
+  {
+    "Index": 72,
+    "Date": "Sat Mar 12",
+    "Color": 0.338652331,
+    "Patients": 143.1
+  },
+  {
+    "Index": 73,
+    "Date": "Sun Mar 13",
+    "Color": 0.397559145,
+    "Patients": 150.6
+  },
+  {
+    "Index": 74,
+    "Date": "Mon Mar 14",
+    "Color": 0.407853876,
+    "Patients": 151.9
+  },
+  {
+    "Index": 75,
+    "Date": "Tue Mar 15",
+    "Color": 0.36375002,
+    "Patients": 146.3
+  },
+  {
+    "Index": 76,
+    "Date": "Wed Mar 16",
+    "Color": 0.621122695,
+    "Patients": 179.1
+  },
+  {
+    "Index": 77,
+    "Date": "Thu Mar 17",
+    "Color": 0.256366275,
+    "Patients": 132.6
+  },
+  {
+    "Index": 78,
+    "Date": "Fri Mar 18",
+    "Color": 0.85309286,
+    "Patients": 208.7
+  },
+  {
+    "Index": 79,
+    "Date": "Sat Mar 19",
+    "Color": 0.493673675,
+    "Patients": 162.9
+  },
+  {
+    "Index": 80,
+    "Date": "Sun Mar 20",
+    "Color": 0.533825745,
+    "Patients": 168
+  },
+  {
+    "Index": 81,
+    "Date": "Mon Mar 21",
+    "Color": 0.634780021,
+    "Patients": 180.9
+  },
+  {
+    "Index": 82,
+    "Date": "Tue Mar 22",
+    "Color": 0.489340645,
+    "Patients": 162.3
+  },
+  {
+    "Index": 83,
+    "Date": "Wed Mar 23",
+    "Color": 0.252693118,
+    "Patients": 132.2
+  },
+  {
+    "Index": 84,
+    "Date": "Thu Mar 24",
+    "Color": 0.64928339,
+    "Patients": 182.7
+  },
+  {
+    "Index": 85,
+    "Date": "Fri Mar 25",
+    "Color": 0.835187832,
+    "Patients": 206.4
+  },
+  {
+    "Index": 86,
+    "Date": "Sat Mar 26",
+    "Color": 0.503323702,
+    "Patients": 164.1
+  },
+  {
+    "Index": 87,
+    "Date": "Sun Mar 27",
+    "Color": 0.558458431,
+    "Patients": 171.1
+  },
+  {
+    "Index": 88,
+    "Date": "Mon Mar 28",
+    "Color": 0.324797184,
+    "Patients": 141.4
+  },
+  {
+    "Index": 89,
+    "Date": "Tue Mar 29",
+    "Color": 0.613509793,
+    "Patients": 178.1
+  },
+  {
+    "Index": 90,
+    "Date": "Wed Mar 30",
+    "Color": 0.392206728,
+    "Patients": 149.9
+  },
+  {
+    "Index": 91,
+    "Date": "Thu Mar 31",
+    "Color": 0.591253719,
+    "Patients": 175.3
+  },
+  {
+    "Index": 92,
+    "Date": "Fri Apr 01",
+    "Color": 0.317172043,
+    "Patients": 140.4
+  },
+  {
+    "Index": 93,
+    "Date": "Sat Apr 02",
+    "Color": 0.335434893,
+    "Patients": 142.7
+  },
+  {
+    "Index": 94,
+    "Date": "Sun Apr 03",
+    "Color": 0.430855312,
+    "Patients": 154.9
+  },
+  {
+    "Index": 95,
+    "Date": "Mon Apr 04",
+    "Color": 0.436381653,
+    "Patients": 155.6
+  },
+  {
+    "Index": 96,
+    "Date": "Tue Apr 05",
+    "Color": 0.498045058,
+    "Patients": 163.4
+  },
+  {
+    "Index": 97,
+    "Date": "Wed Apr 06",
+    "Color": 0.480954863,
+    "Patients": 161.3
+  },
+  {
+    "Index": 98,
+    "Date": "Thu Apr 07",
+    "Color": 0.40246375,
+    "Patients": 151.3
+  },
+  {
+    "Index": 99,
+    "Date": "Fri Apr 08",
+    "Color": 0.48553637,
+    "Patients": 161.8
+  },
+  {
+    "Index": 100,
+    "Date": "Sat Apr 09",
+    "Color": 0.393361997,
+    "Patients": 150.1
+  },
+  {
+    "Index": 101,
+    "Date": "Sun Apr 10",
+    "Color": 0.554697554,
+    "Patients": 170.6
+  },
+  {
+    "Index": 102,
+    "Date": "Mon Apr 11",
+    "Color": 0.437304993,
+    "Patients": 155.7
+  },
+  {
+    "Index": 103,
+    "Date": "Tue Apr 12",
+    "Color": 0.538021745,
+    "Patients": 168.5
+  },
+  {
+    "Index": 104,
+    "Date": "Wed Apr 13",
+    "Color": 0.409024506,
+    "Patients": 152.1
+  },
+  {
+    "Index": 105,
+    "Date": "Thu Apr 14",
+    "Color": 0.400036134,
+    "Patients": 150.9
+  },
+  {
+    "Index": 106,
+    "Date": "Fri Apr 15",
+    "Color": 0.80529849,
+    "Patients": 202.6
+  },
+  {
+    "Index": 107,
+    "Date": "Sat Apr 16",
+    "Color": 0.626061526,
+    "Patients": 179.7
+  },
+  {
+    "Index": 108,
+    "Date": "Sun Apr 17",
+    "Color": 0.332148272,
+    "Patients": 142.3
+  },
+  {
+    "Index": 109,
+    "Date": "Mon Apr 18",
+    "Color": 0.594121537,
+    "Patients": 175.7
+  },
+  {
+    "Index": 110,
+    "Date": "Tue Apr 19",
+    "Color": 0.505290844,
+    "Patients": 164.4
+  },
+  {
+    "Index": 111,
+    "Date": "Wed Apr 20",
+    "Color": 0.407010523,
+    "Patients": 151.8
+  },
+  {
+    "Index": 112,
+    "Date": "Thu Apr 21",
+    "Color": 0.437848617,
+    "Patients": 155.8
+  },
+  {
+    "Index": 113,
+    "Date": "Fri Apr 22",
+    "Color": 0.931545638,
+    "Patients": 218.7
+  },
+  {
+    "Index": 114,
+    "Date": "Sat Apr 23",
+    "Color": 0.612181693,
+    "Patients": 178
+  },
+  {
+    "Index": 115,
+    "Date": "Sun Apr 24",
+    "Color": 0.366792585,
+    "Patients": 146.7
+  },
+  {
+    "Index": 116,
+    "Date": "Mon Apr 25",
+    "Color": 0.619800673,
+    "Patients": 178.9
+  },
+  {
+    "Index": 117,
+    "Date": "Tue Apr 26",
+    "Color": 0.362013106,
+    "Patients": 146.1
+  },
+  {
+    "Index": 118,
+    "Date": "Wed Apr 27",
+    "Color": 0.330413413,
+    "Patients": 142.1
+  },
+  {
+    "Index": 119,
+    "Date": "Thu Apr 28",
+    "Color": 0.359722339,
+    "Patients": 145.8
+  },
+  {
+    "Index": 120,
+    "Date": "Fri Apr 29",
+    "Color": 0.733470697,
+    "Patients": 193.4
+  },
+  {
+    "Index": 121,
+    "Date": "Sat Apr 30",
+    "Color": 0.439775064,
+    "Patients": 156
+  },
+  {
+    "Index": 122,
+    "Date": "Sun May 01",
+    "Color": 0.347170328,
+    "Patients": 144.2
+  },
+  {
+    "Index": 123,
+    "Date": "Mon May 02",
+    "Color": 0.46175597,
+    "Patients": 158.8
+  },
+  {
+    "Index": 124,
+    "Date": "Tue May 03",
+    "Color": 0.396202775,
+    "Patients": 150.5
+  },
+  {
+    "Index": 125,
+    "Date": "Wed May 04",
+    "Color": 0.365350264,
+    "Patients": 146.5
+  },
+  {
+    "Index": 126,
+    "Date": "Thu May 05",
+    "Color": 0.292392867,
+    "Patients": 137.2
+  },
+  {
+    "Index": 127,
+    "Date": "Fri May 06",
+    "Color": 0.506559557,
+    "Patients": 164.5
+  },
+  {
+    "Index": 128,
+    "Date": "Sat May 07",
+    "Color": 0.555607623,
+    "Patients": 170.8
+  },
+  {
+    "Index": 129,
+    "Date": "Sun May 08",
+    "Color": 0.606349058,
+    "Patients": 177.2
+  },
+  {
+    "Index": 130,
+    "Date": "Mon May 09",
+    "Color": 0.347170328,
+    "Patients": 144.2
+  },
+  {
+    "Index": 131,
+    "Date": "Tue May 10",
+    "Color": 0.447920937,
+    "Patients": 157
+  },
+  {
+    "Index": 132,
+    "Date": "Wed May 11",
+    "Color": 0.398216631,
+    "Patients": 150.7
+  },
+  {
+    "Index": 133,
+    "Date": "Thu May 12",
+    "Color": 0.274787744,
+    "Patients": 135
+  },
+  {
+    "Index": 134,
+    "Date": "Fri May 13",
+    "Color": 0.617713981,
+    "Patients": 178.7
+  },
+  {
+    "Index": 135,
+    "Date": "Sat May 14",
+    "Color": 0.670314052,
+    "Patients": 185.4
+  },
+  {
+    "Index": 136,
+    "Date": "Sun May 15",
+    "Color": 0.254004584,
+    "Patients": 132.3
+  },
+  {
+    "Index": 137,
+    "Date": "Mon May 16",
+    "Color": 0.324913456,
+    "Patients": 141.4
+  },
+  {
+    "Index": 138,
+    "Date": "Tue May 17",
+    "Color": 0.498045058,
+    "Patients": 163.4
+  },
+  {
+    "Index": 139,
+    "Date": "Wed May 18",
+    "Color": 0.366738549,
+    "Patients": 146.7
+  },
+  {
+    "Index": 140,
+    "Date": "Thu May 19",
+    "Color": 0.440527699,
+    "Patients": 156.1
+  },
+  {
+    "Index": 141,
+    "Date": "Fri May 20",
+    "Color": 0.36372303,
+    "Patients": 146.3
+  },
+  {
+    "Index": 142,
+    "Date": "Sat May 21",
+    "Color": 0.564488051,
+    "Patients": 171.9
+  },
+  {
+    "Index": 143,
+    "Date": "Sun May 22",
+    "Color": 0.335303852,
+    "Patients": 142.7
+  },
+  {
+    "Index": 144,
+    "Date": "Mon May 23",
+    "Color": 0.369150962,
+    "Patients": 147
+  },
+  {
+    "Index": 145,
+    "Date": "Tue May 24",
+    "Color": 0.291857175,
+    "Patients": 137.2
+  },
+  {
+    "Index": 146,
+    "Date": "Wed May 25",
+    "Color": 0.557029901,
+    "Patients": 170.9
+  },
+  {
+    "Index": 147,
+    "Date": "Thu May 26",
+    "Color": 0.636142037,
+    "Patients": 181
+  },
+  {
+    "Index": 148,
+    "Date": "Fri May 27",
+    "Color": 0.837007391,
+    "Patients": 206.6
+  },
+  {
+    "Index": 149,
+    "Date": "Sat May 28",
+    "Color": 0.472533832,
+    "Patients": 160.2
+  },
+  {
+    "Index": 150,
+    "Date": "Sun May 29",
+    "Color": 0.339518817,
+    "Patients": 143.2
+  },
+  {
+    "Index": 151,
+    "Date": "Mon May 30",
+    "Color": 0.372386692,
+    "Patients": 147.4
+  },
+  {
+    "Index": 152,
+    "Date": "Tue May 31",
+    "Color": 0.344706742,
+    "Patients": 143.9
+  },
+  {
+    "Index": 153,
+    "Date": "Wed Jun 01",
+    "Color": 0.604306688,
+    "Patients": 177
+  },
+  {
+    "Index": 154,
+    "Date": "Thu Jun 02",
+    "Color": 0.464421598,
+    "Patients": 159.1
+  },
+  {
+    "Index": 155,
+    "Date": "Fri Jun 03",
+    "Color": 0.612968326,
+    "Patients": 178.1
+  },
+  {
+    "Index": 156,
+    "Date": "Sat Jun 04",
+    "Color": 0.338246258,
+    "Patients": 143.1
+  },
+  {
+    "Index": 157,
+    "Date": "Sun Jun 05",
+    "Color": 0.665900632,
+    "Patients": 184.8
+  },
+  {
+    "Index": 158,
+    "Date": "Mon Jun 06",
+    "Color": 0.486636544,
+    "Patients": 162
+  },
+  {
+    "Index": 159,
+    "Date": "Tue Jun 07",
+    "Color": 0.532110411,
+    "Patients": 167.8
+  },
+  {
+    "Index": 160,
+    "Date": "Wed Jun 08",
+    "Color": 0.432463221,
+    "Patients": 155.1
+  },
+  {
+    "Index": 161,
+    "Date": "Thu Jun 09",
+    "Color": 0.485259372,
+    "Patients": 161.8
+  },
+  {
+    "Index": 162,
+    "Date": "Fri Jun 10",
+    "Color": 0.540967833,
+    "Patients": 168.9
+  },
+  {
+    "Index": 163,
+    "Date": "Sat Jun 11",
+    "Color": 0.21636925,
+    "Patients": 127.5
+  },
+  {
+    "Index": 164,
+    "Date": "Sun Jun 12",
+    "Color": 0.513450719,
+    "Patients": 165.4
+  },
+  {
+    "Index": 165,
+    "Date": "Mon Jun 13",
+    "Color": 0.50198598,
+    "Patients": 163.9
+  },
+  {
+    "Index": 166,
+    "Date": "Tue Jun 14",
+    "Color": 0.42237646,
+    "Patients": 153.8
+  },
+  {
+    "Index": 167,
+    "Date": "Wed Jun 15",
+    "Color": 0.519252582,
+    "Patients": 166.1
+  },
+  {
+    "Index": 168,
+    "Date": "Thu Jun 16",
+    "Color": 0.354495077,
+    "Patients": 145.1
+  },
+  {
+    "Index": 169,
+    "Date": "Fri Jun 17",
+    "Color": 0.423971428,
+    "Patients": 154
+  },
+  {
+    "Index": 170,
+    "Date": "Sat Jun 18",
+    "Color": 0.670609218,
+    "Patients": 185.4
+  },
+  {
+    "Index": 171,
+    "Date": "Sun Jun 19",
+    "Color": 0.319284272,
+    "Patients": 140.7
+  },
+  {
+    "Index": 172,
+    "Date": "Mon Jun 20",
+    "Color": 0.652938673,
+    "Patients": 183.2
+  },
+  {
+    "Index": 173,
+    "Date": "Tue Jun 21",
+    "Color": 0.510586882,
+    "Patients": 165
+  },
+  {
+    "Index": 174,
+    "Date": "Wed Jun 22",
+    "Color": 0.369817722,
+    "Patients": 147.1
+  },
+  {
+    "Index": 175,
+    "Date": "Thu Jun 23",
+    "Color": 0.608873889,
+    "Patients": 177.5
+  },
+  {
+    "Index": 176,
+    "Date": "Fri Jun 24",
+    "Color": 0.906799565,
+    "Patients": 215.5
+  },
+  {
+    "Index": 177,
+    "Date": "Sat Jun 25",
+    "Color": 0.375943525,
+    "Patients": 147.9
+  },
+  {
+    "Index": 178,
+    "Date": "Sun Jun 26",
+    "Color": 0.380708505,
+    "Patients": 148.5
+  },
+  {
+    "Index": 179,
+    "Date": "Mon Jun 27",
+    "Color": 0.51066991,
+    "Patients": 165
+  },
+  {
+    "Index": 180,
+    "Date": "Tue Jun 28",
+    "Color": 0.51066991,
+    "Patients": 165
+  },
+  {
+    "Index": 181,
+    "Date": "Wed Jun 29",
+    "Color": 0.4191539,
+    "Patients": 153.4
+  },
+  {
+    "Index": 182,
+    "Date": "Thu Jun 30",
+    "Color": 0.650106942,
+    "Patients": 182.8
+  },
+  {
+    "Index": 183,
+    "Date": "Fri Jul 01",
+    "Color": 0.818863858,
+    "Patients": 204.3
+  },
+  {
+    "Index": 184,
+    "Date": "Sat Jul 02",
+    "Color": 0.40881345,
+    "Patients": 152.1
+  },
+  {
+    "Index": 185,
+    "Date": "Sun Jul 03",
+    "Color": 0.515542488,
+    "Patients": 165.7
+  },
+  {
+    "Index": 186,
+    "Date": "Mon Jul 04",
+    "Color": 0.596207557,
+    "Patients": 175.9
+  },
+  {
+    "Index": 187,
+    "Date": "Tue Jul 05",
+    "Color": 0.660416747,
+    "Patients": 184.1
+  },
+  {
+    "Index": 188,
+    "Date": "Wed Jul 06",
+    "Color": 0.506238256,
+    "Patients": 164.5
+  },
+  {
+    "Index": 189,
+    "Date": "Thu Jul 07",
+    "Color": 0.662464012,
+    "Patients": 184.4
+  },
+  {
+    "Index": 190,
+    "Date": "Fri Jul 08",
+    "Color": 0.875656798,
+    "Patients": 211.5
+  },
+  {
+    "Index": 191,
+    "Date": "Sat Jul 09",
+    "Color": 0.429001684,
+    "Patients": 154.6
+  },
+  {
+    "Index": 192,
+    "Date": "Sun Jul 10",
+    "Color": 0.440515385,
+    "Patients": 156.1
+  },
+  {
+    "Index": 193,
+    "Date": "Mon Jul 11",
+    "Color": 0.71709491,
+    "Patients": 191.3
+  },
+  {
+    "Index": 194,
+    "Date": "Tue Jul 12",
+    "Color": 0.391536771,
+    "Patients": 149.9
+  },
+  {
+    "Index": 195,
+    "Date": "Wed Jul 13",
+    "Color": 0.568848403,
+    "Patients": 172.4
+  },
+  {
+    "Index": 196,
+    "Date": "Thu Jul 14",
+    "Color": 0.604584373,
+    "Patients": 177
+  },
+  {
+    "Index": 197,
+    "Date": "Fri Jul 15",
+    "Color": 0.645607569,
+    "Patients": 182.2
+  },
+  {
+    "Index": 198,
+    "Date": "Sat Jul 16",
+    "Color": 0.524419107,
+    "Patients": 166.8
+  },
+  {
+    "Index": 199,
+    "Date": "Sun Jul 17",
+    "Color": 0.61818932,
+    "Patients": 178.7
+  },
+  {
+    "Index": 200,
+    "Date": "Mon Jul 18",
+    "Color": 0.532842728,
+    "Patients": 167.9
+  },
+  {
+    "Index": 201,
+    "Date": "Tue Jul 19",
+    "Color": 0.226364257,
+    "Patients": 128.8
+  },
+  {
+    "Index": 202,
+    "Date": "Wed Jul 20",
+    "Color": 0.287518218,
+    "Patients": 136.6
+  },
+  {
+    "Index": 203,
+    "Date": "Thu Jul 21",
+    "Color": 0.46844292,
+    "Patients": 159.7
+  },
+  {
+    "Index": 204,
+    "Date": "Fri Jul 22",
+    "Color": 0.836256903,
+    "Patients": 206.5
+  },
+  {
+    "Index": 205,
+    "Date": "Sat Jul 23",
+    "Color": 0.443860763,
+    "Patients": 156.5
+  },
+  {
+    "Index": 206,
+    "Date": "Sun Jul 24",
+    "Color": 0.343385076,
+    "Patients": 143.7
+  },
+  {
+    "Index": 207,
+    "Date": "Mon Jul 25",
+    "Color": 0.359722339,
+    "Patients": 145.8
+  },
+  {
+    "Index": 208,
+    "Date": "Tue Jul 26",
+    "Color": 0.369120121,
+    "Patients": 147
+  },
+  {
+    "Index": 209,
+    "Date": "Wed Jul 27",
+    "Color": 0.65285291,
+    "Patients": 183.2
+  },
+  {
+    "Index": 210,
+    "Date": "Thu Jul 28",
+    "Color": 0.72314908,
+    "Patients": 192.1
+  },
+  {
+    "Index": 211,
+    "Date": "Fri Jul 29",
+    "Color": 0.737491621,
+    "Patients": 193.9
+  },
+  {
+    "Index": 212,
+    "Date": "Sat Jul 30",
+    "Color": 0.604584373,
+    "Patients": 177
+  },
+  {
+    "Index": 213,
+    "Date": "Sun Jul 31",
+    "Color": 0.281695717,
+    "Patients": 135.9
+  },
+  {
+    "Index": 214,
+    "Date": "Mon Aug 01",
+    "Color": 0.445948779,
+    "Patients": 156.8
+  },
+  {
+    "Index": 215,
+    "Date": "Tue Aug 02",
+    "Color": 0.455348369,
+    "Patients": 158
+  },
+  {
+    "Index": 216,
+    "Date": "Wed Aug 03",
+    "Color": 0.54678565,
+    "Patients": 169.6
+  },
+  {
+    "Index": 217,
+    "Date": "Thu Aug 04",
+    "Color": 0.612181693,
+    "Patients": 178
+  },
+  {
+    "Index": 218,
+    "Date": "Fri Aug 05",
+    "Color": 0.872472547,
+    "Patients": 211.1
+  },
+  {
+    "Index": 219,
+    "Date": "Sat Aug 06",
+    "Color": 0.229737835,
+    "Patients": 129.2
+  },
+  {
+    "Index": 220,
+    "Date": "Sun Aug 07",
+    "Color": 0.231461919,
+    "Patients": 129.5
+  },
+  {
+    "Index": 221,
+    "Date": "Mon Aug 08",
+    "Color": 0.353981212,
+    "Patients": 145.1
+  },
+  {
+    "Index": 222,
+    "Date": "Tue Aug 09",
+    "Color": 0.520817969,
+    "Patients": 166.3
+  },
+  {
+    "Index": 223,
+    "Date": "Wed Aug 10",
+    "Color": 0.542093226,
+    "Patients": 169
+  },
+  {
+    "Index": 224,
+    "Date": "Thu Aug 11",
+    "Color": 0.377467114,
+    "Patients": 148.1
+  },
+  {
+    "Index": 225,
+    "Date": "Fri Aug 12",
+    "Color": 0.783041147,
+    "Patients": 199.7
+  },
+  {
+    "Index": 226,
+    "Date": "Sat Aug 13",
+    "Color": 0.43171554,
+    "Patients": 155
+  },
+  {
+    "Index": 227,
+    "Date": "Sun Aug 14",
+    "Color": 0.313397761,
+    "Patients": 139.9
+  },
+  {
+    "Index": 228,
+    "Date": "Mon Aug 15",
+    "Color": 0.369424307,
+    "Patients": 147
+  },
+  {
+    "Index": 229,
+    "Date": "Tue Aug 16",
+    "Color": 0.541824127,
+    "Patients": 169
+  },
+  {
+    "Index": 230,
+    "Date": "Wed Aug 17",
+    "Color": 0.639813468,
+    "Patients": 181.5
+  },
+  {
+    "Index": 231,
+    "Date": "Thu Aug 18",
+    "Color": 0.281807472,
+    "Patients": 135.9
+  },
+  {
+    "Index": 232,
+    "Date": "Fri Aug 19",
+    "Color": 0.862294075,
+    "Patients": 209.8
+  },
+  {
+    "Index": 233,
+    "Date": "Sat Aug 20",
+    "Color": 0.644023406,
+    "Patients": 182
+  },
+  {
+    "Index": 234,
+    "Date": "Sun Aug 21",
+    "Color": 0.324967215,
+    "Patients": 141.4
+  },
+  {
+    "Index": 235,
+    "Date": "Mon Aug 22",
+    "Color": 0.321288042,
+    "Patients": 140.9
+  },
+  {
+    "Index": 236,
+    "Date": "Tue Aug 23",
+    "Color": 0.361129281,
+    "Patients": 146
+  },
+  {
+    "Index": 237,
+    "Date": "Wed Aug 24",
+    "Color": 0.415973909,
+    "Patients": 153
+  },
+  {
+    "Index": 238,
+    "Date": "Thu Aug 25",
+    "Color": 0.692241309,
+    "Patients": 188.2
+  },
+  {
+    "Index": 239,
+    "Date": "Fri Aug 26",
+    "Color": 0.549907391,
+    "Patients": 170
+  },
+  {
+    "Index": 240,
+    "Date": "Sat Aug 27",
+    "Color": 0.505757325,
+    "Patients": 164.4
+  },
+  {
+    "Index": 241,
+    "Date": "Sun Aug 28",
+    "Color": 0.638473868,
+    "Patients": 181.3
+  },
+  {
+    "Index": 242,
+    "Date": "Mon Aug 29",
+    "Color": 0.465043162,
+    "Patients": 159.2
+  },
+  {
+    "Index": 243,
+    "Date": "Tue Aug 30",
+    "Color": 0.561916404,
+    "Patients": 171.6
+  },
+  {
+    "Index": 244,
+    "Date": "Wed Aug 31",
+    "Color": 0.40539235,
+    "Patients": 151.6
+  },
+  {
+    "Index": 245,
+    "Date": "Thu Sep 01",
+    "Color": 0.499452605,
+    "Patients": 163.6
+  },
+  {
+    "Index": 246,
+    "Date": "Fri Sep 02",
+    "Color": 0.468972099,
+    "Patients": 159.7
+  },
+  {
+    "Index": 247,
+    "Date": "Sat Sep 03",
+    "Color": 0.711877661,
+    "Patients": 190.7
+  },
+  {
+    "Index": 248,
+    "Date": "Sun Sep 04",
+    "Color": 0.400879181,
+    "Patients": 151
+  },
+  {
+    "Index": 249,
+    "Date": "Mon Sep 05",
+    "Color": 0.509505382,
+    "Patients": 164.9
+  },
+  {
+    "Index": 250,
+    "Date": "Tue Sep 06",
+    "Color": 0.381851891,
+    "Patients": 148.6
+  },
+  {
+    "Index": 251,
+    "Date": "Wed Sep 07",
+    "Color": 0.688783015,
+    "Patients": 187.7
+  },
+  {
+    "Index": 252,
+    "Date": "Thu Sep 08",
+    "Color": 0.320116308,
+    "Patients": 140.8
+  },
+  {
+    "Index": 253,
+    "Date": "Fri Sep 09",
+    "Color": 0.71391524,
+    "Patients": 190.9
+  },
+  {
+    "Index": 254,
+    "Date": "Sat Sep 10",
+    "Color": 0.423850452,
+    "Patients": 154
+  },
+  {
+    "Index": 255,
+    "Date": "Sun Sep 11",
+    "Color": 0.29538611,
+    "Patients": 137.6
+  },
+  {
+    "Index": 256,
+    "Date": "Mon Sep 12",
+    "Color": 0.465043162,
+    "Patients": 159.2
+  },
+  {
+    "Index": 257,
+    "Date": "Tue Sep 13",
+    "Color": 0.274649162,
+    "Patients": 135
+  },
+  {
+    "Index": 258,
+    "Date": "Wed Sep 14",
+    "Color": 0.509858439,
+    "Patients": 164.9
+  },
+  {
+    "Index": 259,
+    "Date": "Thu Sep 15",
+    "Color": 0.413077048,
+    "Patients": 152.6
+  },
+  {
+    "Index": 260,
+    "Date": "Fri Sep 16",
+    "Color": 0.730061182,
+    "Patients": 193
+  },
+  {
+    "Index": 261,
+    "Date": "Sat Sep 17",
+    "Color": 0.579481445,
+    "Patients": 173.8
+  },
+  {
+    "Index": 262,
+    "Date": "Sun Sep 18",
+    "Color": 0.35917942,
+    "Patients": 145.7
+  },
+  {
+    "Index": 263,
+    "Date": "Mon Sep 19",
+    "Color": 0.408392055,
+    "Patients": 152
+  },
+  {
+    "Index": 264,
+    "Date": "Tue Sep 20",
+    "Color": 0.440527699,
+    "Patients": 156.1
+  },
+  {
+    "Index": 265,
+    "Date": "Wed Sep 21",
+    "Color": 0.277196692,
+    "Patients": 135.3
+  },
+  {
+    "Index": 266,
+    "Date": "Thu Sep 22",
+    "Color": 0.604276522,
+    "Patients": 177
+  },
+  {
+    "Index": 267,
+    "Date": "Fri Sep 23",
+    "Color": 0.579487976,
+    "Patients": 173.8
+  },
+  {
+    "Index": 268,
+    "Date": "Sat Sep 24",
+    "Color": 0.480954863,
+    "Patients": 161.3
+  },
+  {
+    "Index": 269,
+    "Date": "Sun Sep 25",
+    "Color": 0.319284272,
+    "Patients": 140.7
+  },
+  {
+    "Index": 270,
+    "Date": "Mon Sep 26",
+    "Color": 0.627361173,
+    "Patients": 179.9
+  },
+  {
+    "Index": 271,
+    "Date": "Tue Sep 27",
+    "Color": 0.396278471,
+    "Patients": 150.5
+  },
+  {
+    "Index": 272,
+    "Date": "Wed Sep 28",
+    "Color": 0.420396001,
+    "Patients": 153.5
+  },
+  {
+    "Index": 273,
+    "Date": "Thu Sep 29",
+    "Color": 0.543509089,
+    "Patients": 169.2
+  },
+  {
+    "Index": 274,
+    "Date": "Fri Sep 30",
+    "Color": 0.467259516,
+    "Patients": 159.5
+  },
+  {
+    "Index": 275,
+    "Date": "Sat Oct 01",
+    "Color": 0.734598347,
+    "Patients": 193.6
+  },
+  {
+    "Index": 276,
+    "Date": "Sun Oct 02",
+    "Color": 0.643476033,
+    "Patients": 182
+  },
+  {
+    "Index": 277,
+    "Date": "Mon Oct 03",
+    "Color": 0.480914656,
+    "Patients": 161.2
+  },
+  {
+    "Index": 278,
+    "Date": "Tue Oct 04",
+    "Color": 0.373037777,
+    "Patients": 147.5
+  },
+  {
+    "Index": 279,
+    "Date": "Wed Oct 05",
+    "Color": 0.315264036,
+    "Patients": 140.1
+  },
+  {
+    "Index": 280,
+    "Date": "Thu Oct 06",
+    "Color": 0.438544321,
+    "Patients": 155.8
+  },
+  {
+    "Index": 281,
+    "Date": "Fri Oct 07",
+    "Color": 0.798703797,
+    "Patients": 201.7
+  },
+  {
+    "Index": 282,
+    "Date": "Sat Oct 08",
+    "Color": 0.336721462,
+    "Patients": 142.9
+  },
+  {
+    "Index": 283,
+    "Date": "Sun Oct 09",
+    "Color": 0.432909594,
+    "Patients": 155.1
+  },
+  {
+    "Index": 284,
+    "Date": "Mon Oct 10",
+    "Color": 0.371428176,
+    "Patients": 147.3
+  },
+  {
+    "Index": 285,
+    "Date": "Tue Oct 11",
+    "Color": 0.644817965,
+    "Patients": 182.1
+  },
+  {
+    "Index": 286,
+    "Date": "Wed Oct 12",
+    "Color": 0.286708061,
+    "Patients": 136.5
+  },
+  {
+    "Index": 287,
+    "Date": "Thu Oct 13",
+    "Color": 0.500910172,
+    "Patients": 163.8
+  },
+  {
+    "Index": 288,
+    "Date": "Fri Oct 14",
+    "Color": 0.377017059,
+    "Patients": 148
+  },
+  {
+    "Index": 289,
+    "Date": "Sat Oct 15",
+    "Color": 0.322551958,
+    "Patients": 141.1
+  },
+  {
+    "Index": 290,
+    "Date": "Sun Oct 16",
+    "Color": 0.543509089,
+    "Patients": 169.2
+  },
+  {
+    "Index": 291,
+    "Date": "Mon Oct 17",
+    "Color": 0.520817969,
+    "Patients": 166.3
+  },
+  {
+    "Index": 292,
+    "Date": "Tue Oct 18",
+    "Color": 0.437043227,
+    "Patients": 155.7
+  },
+  {
+    "Index": 293,
+    "Date": "Wed Oct 19",
+    "Color": 0.569118999,
+    "Patients": 172.5
+  },
+  {
+    "Index": 294,
+    "Date": "Thu Oct 20",
+    "Color": 0.339245589,
+    "Patients": 143.2
+  },
+  {
+    "Index": 295,
+    "Date": "Fri Oct 21",
+    "Color": 0.946529408,
+    "Patients": 220.6
+  },
+  {
+    "Index": 296,
+    "Date": "Sat Oct 22",
+    "Color": 0.313461998,
+    "Patients": 139.9
+  },
+  {
+    "Index": 297,
+    "Date": "Sun Oct 23",
+    "Color": 0.540793037,
+    "Patients": 168.9
+  },
+  {
+    "Index": 298,
+    "Date": "Mon Oct 24",
+    "Color": 0.58587177,
+    "Patients": 174.6
+  },
+  {
+    "Index": 299,
+    "Date": "Tue Oct 25",
+    "Color": 0.447461732,
+    "Patients": 157
+  },
+  {
+    "Index": 300,
+    "Date": "Wed Oct 26",
+    "Color": 0.519780275,
+    "Patients": 166.2
+  },
+  {
+    "Index": 301,
+    "Date": "Thu Oct 27",
+    "Color": 0.400720742,
+    "Patients": 151
+  },
+  {
+    "Index": 302,
+    "Date": "Fri Oct 28",
+    "Color": 0.40969117,
+    "Patients": 152.2
+  },
+  {
+    "Index": 303,
+    "Date": "Sat Oct 29",
+    "Color": 0.270739159,
+    "Patients": 134.5
+  },
+  {
+    "Index": 304,
+    "Date": "Sun Oct 30",
+    "Color": 0.754076467,
+    "Patients": 196
+  },
+  {
+    "Index": 305,
+    "Date": "Mon Oct 31",
+    "Color": 0.585503015,
+    "Patients": 174.6
+  },
+  {
+    "Index": 306,
+    "Date": "Tue Nov 01",
+    "Color": 0.465280442,
+    "Patients": 159.3
+  },
+  {
+    "Index": 307,
+    "Date": "Wed Nov 02",
+    "Color": 0.456280627,
+    "Patients": 158.1
+  },
+  {
+    "Index": 308,
+    "Date": "Thu Nov 03",
+    "Color": 0.572505151,
+    "Patients": 172.9
+  },
+  {
+    "Index": 309,
+    "Date": "Fri Nov 04",
+    "Color": 0.929057264,
+    "Patients": 218.3
+  },
+  {
+    "Index": 310,
+    "Date": "Sat Nov 05",
+    "Color": 0.360373582,
+    "Patients": 145.9
+  },
+  {
+    "Index": 311,
+    "Date": "Sun Nov 06",
+    "Color": 0.708929833,
+    "Patients": 190.3
+  },
+  {
+    "Index": 312,
+    "Date": "Mon Nov 07",
+    "Color": 0.619565711,
+    "Patients": 178.9
+  },
+  {
+    "Index": 313,
+    "Date": "Tue Nov 08",
+    "Color": 0.308971981,
+    "Patients": 139.3
+  },
+  {
+    "Index": 314,
+    "Date": "Wed Nov 09",
+    "Color": 0.440456029,
+    "Patients": 156.1
+  },
+  {
+    "Index": 315,
+    "Date": "Thu Nov 10",
+    "Color": 0.369187618,
+    "Patients": 147
+  },
+  {
+    "Index": 316,
+    "Date": "Fri Nov 11",
+    "Color": 0.62151985,
+    "Patients": 179.2
+  },
+  {
+    "Index": 317,
+    "Date": "Sat Nov 12",
+    "Color": 0.60298733,
+    "Patients": 176.8
+  },
+  {
+    "Index": 318,
+    "Date": "Sun Nov 13",
+    "Color": 0.423165826,
+    "Patients": 153.9
+  },
+  {
+    "Index": 319,
+    "Date": "Mon Nov 14",
+    "Color": 0.642023976,
+    "Patients": 181.8
+  },
+  {
+    "Index": 320,
+    "Date": "Tue Nov 15",
+    "Color": 0.256830213,
+    "Patients": 132.7
+  },
+  {
+    "Index": 321,
+    "Date": "Wed Nov 16",
+    "Color": 0.329469438,
+    "Patients": 142
+  },
+  {
+    "Index": 322,
+    "Date": "Thu Nov 17",
+    "Color": 0.497005155,
+    "Patients": 163.3
+  },
+  {
+    "Index": 323,
+    "Date": "Fri Nov 18",
+    "Color": 0.599516103,
+    "Patients": 176.4
+  },
+  {
+    "Index": 324,
+    "Date": "Sat Nov 19",
+    "Color": 0.380783207,
+    "Patients": 148.5
+  },
+  {
+    "Index": 325,
+    "Date": "Sun Nov 20",
+    "Color": 0.522051816,
+    "Patients": 166.5
+  },
+  {
+    "Index": 326,
+    "Date": "Mon Nov 21",
+    "Color": 0.719059782,
+    "Patients": 191.6
+  },
+  {
+    "Index": 327,
+    "Date": "Tue Nov 22",
+    "Color": 0.432694315,
+    "Patients": 155.1
+  },
+  {
+    "Index": 328,
+    "Date": "Wed Nov 23",
+    "Color": 0.307613569,
+    "Patients": 139.2
+  },
+  {
+    "Index": 329,
+    "Date": "Thu Nov 24",
+    "Color": 0.506438839,
+    "Patients": 164.5
+  },
+  {
+    "Index": 330,
+    "Date": "Fri Nov 25",
+    "Color": 0.781964669,
+    "Patients": 199.6
+  },
+  {
+    "Index": 331,
+    "Date": "Sat Nov 26",
+    "Color": 0.626789958,
+    "Patients": 179.8
+  },
+  {
+    "Index": 332,
+    "Date": "Sun Nov 27",
+    "Color": 0.408517088,
+    "Patients": 152
+  },
+  {
+    "Index": 333,
+    "Date": "Mon Nov 28",
+    "Color": 0.542296559,
+    "Patients": 169.1
+  },
+  {
+    "Index": 334,
+    "Date": "Tue Nov 29",
+    "Color": 0.51785526,
+    "Patients": 166
+  },
+  {
+    "Index": 335,
+    "Date": "Wed Nov 30",
+    "Color": 0.447701317,
+    "Patients": 157
+  },
+  {
+    "Index": 336,
+    "Date": "Thu Dec 01",
+    "Color": 0.346516648,
+    "Patients": 144.1
+  },
+  {
+    "Index": 337,
+    "Date": "Fri Dec 02",
+    "Color": 0.474487705,
+    "Patients": 160.4
+  },
+  {
+    "Index": 338,
+    "Date": "Sat Dec 03",
+    "Color": 0.415787381,
+    "Patients": 152.9
+  },
+  {
+    "Index": 339,
+    "Date": "Sun Dec 04",
+    "Color": 0.618847015,
+    "Patients": 178.8
+  },
+  {
+    "Index": 340,
+    "Date": "Mon Dec 05",
+    "Color": 0.33739777,
+    "Patients": 143
+  },
+  {
+    "Index": 341,
+    "Date": "Tue Dec 06",
+    "Color": 0.456582307,
+    "Patients": 158.1
+  },
+  {
+    "Index": 342,
+    "Date": "Wed Dec 07",
+    "Color": 0.324967215,
+    "Patients": 141.4
+  },
+  {
+    "Index": 343,
+    "Date": "Thu Dec 08",
+    "Color": 0.453341048,
+    "Patients": 157.7
+  },
+  {
+    "Index": 344,
+    "Date": "Fri Dec 09",
+    "Color": 0.720998419,
+    "Patients": 191.8
+  },
+  {
+    "Index": 345,
+    "Date": "Sat Dec 10",
+    "Color": 0.4164229,
+    "Patients": 153
+  },
+  {
+    "Index": 346,
+    "Date": "Sun Dec 11",
+    "Color": 0.49508195,
+    "Patients": 163.1
+  },
+  {
+    "Index": 347,
+    "Date": "Mon Dec 12",
+    "Color": 0.480914656,
+    "Patients": 161.2
+  },
+  {
+    "Index": 348,
+    "Date": "Tue Dec 13",
+    "Color": 0.479985829,
+    "Patients": 161.1
+  },
+  {
+    "Index": 349,
+    "Date": "Wed Dec 14",
+    "Color": 0.434148815,
+    "Patients": 155.3
+  },
+  {
+    "Index": 350,
+    "Date": "Thu Dec 15",
+    "Color": 0.523443104,
+    "Patients": 166.7
+  },
+  {
+    "Index": 351,
+    "Date": "Fri Dec 16",
+    "Color": 0.71021191,
+    "Patients": 190.5
+  },
+  {
+    "Index": 352,
+    "Date": "Sat Dec 17",
+    "Color": 0.694925777,
+    "Patients": 188.5
+  },
+  {
+    "Index": 353,
+    "Date": "Sun Dec 18",
+    "Color": 0.532068578,
+    "Patients": 167.8
+  },
+  {
+    "Index": 354,
+    "Date": "Mon Dec 19",
+    "Color": 0.383170993,
+    "Patients": 148.8
+  },
+  {
+    "Index": 355,
+    "Date": "Tue Dec 20",
+    "Color": 0.636932212,
+    "Patients": 181.1
+  },
+  {
+    "Index": 356,
+    "Date": "Wed Dec 21",
+    "Color": 0.303004672,
+    "Patients": 138.6
+  },
+  {
+    "Index": 357,
+    "Date": "Thu Dec 22",
+    "Color": 0.439078028,
+    "Patients": 155.9
+  },
+  {
+    "Index": 358,
+    "Date": "Fri Dec 23",
+    "Color": 0.726798832,
+    "Patients": 192.6
+  },
+  {
+    "Index": 359,
+    "Date": "Sat Dec 24",
+    "Color": 0.481111304,
+    "Patients": 161.3
+  },
+  {
+    "Index": 360,
+    "Date": "Sun Dec 25",
+    "Color": 0.687811211,
+    "Patients": 187.6
+  },
+  {
+    "Index": 361,
+    "Date": "Mon Dec 26",
+    "Color": 0.491000263,
+    "Patients": 162.5
+  },
+  {
+    "Index": 362,
+    "Date": "Tue Dec 27",
+    "Color": 0.678948169,
+    "Patients": 186.5
+  },
+  {
+    "Index": 363,
+    "Date": "Wed Dec 28",
+    "Color": 0.379088239,
+    "Patients": 148.3
+  },
+  {
+    "Index": 364,
+    "Date": "Thu Dec 29",
+    "Color": 0.550281651,
+    "Patients": 170.1
+  },
+  {
+    "Index": 365,
+    "Date": "Fri Dec 30",
+    "Color": 0.491592165,
+    "Patients": 162.6
+  },
+  {
+    "Index": 366,
+    "Date": "Sat Dec 31",
+    "Color": 1,
+    "Patients": 326
+  }
+]
